@@ -33,3 +33,10 @@ while True:
     response = chat_eng.chat(question)
     print(response)
     print("\n")
+    
+#Example Questions used by me
+#Who is Lionel Messi?
+#What has the previous person in question have won in his life?
+#What was my previous question?
+#What club did he played first for (Won't give desirable output as it sturggles to keep up with previous conversation without actually mentioning previous question)
+#End
