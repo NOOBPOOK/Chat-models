@@ -1,0 +1,15 @@
+Hello I'm Vedant Shetye and I have completed the live learning Assignment. The requirements I had to download for this project were
+
+langchain==0.0.192
+llama-index==0.6.21.post1
+
+Rest all was automatically downloaded as requirements for downloading the above 2 libraries.
+
+Next requierement is an OPENAI API KEY,
+1. You can make aa account on OPENAI website for free and get your key.
+2. After this, you have to set the api key as environment variable.
+3. In my case, for Windows i initialized that key in my system environment keys via settings.
+4. Note pls follow the following format and name only
+  OPENAI_API_KEY = 'yourapikey'
+
+After doing all the above processes, simply run the program and ask questions to the model as required.
