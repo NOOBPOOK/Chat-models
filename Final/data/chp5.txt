@@ -1,0 +1,1156 @@
+CHAPTER V.
+
+EVOLUTION OF THE PRINCIPAL CONCEPTS.
+
+
+After this general study of the nature of the most elevated forms of
+abstraction, we must take the principal concepts one by one, and retrace
+their evolution in outline. Let us once more note that we are concerned
+with pure psychology, and are to eliminate all that depends on the
+theory of knowledge and other transcendental speculations. As regards
+the _first_ origin of our notions of time, space, cause, etc., each may
+adopt the opinion that pleases him. Whether we admit the hypothesis of
+_à priori_ forms of the mind (Kant), or that of an innate sense acquired
+by repetition of experience in the species, and fixed by heredity in
+the course of centuries (Herbert Spencer), or any other whatsoever—it
+is clear that the appearance of these concepts, and the data of their
+evolution, depend on experimental conditions, and consequently fall
+within our province. Accordingly it is with their empirical genesis, and
+development through experience, that we are concerned—and with that alone.
+
+
+SECTION I. CONCEPT OF NUMBER.
+
+The lower phases of this concept are already known to us. We have
+traversed them in considering numeration, in brutes, children, and
+aborigines. And here we return to it finally under its higher aspects.
+
+At the outset, counting was, as we found, merely the perception of a
+plurality; abstraction being practically at zero. Later on a rudiment of
+numeration appeared, under a practical concrete form: we have perception
+plus the word—a poor auxiliary, whose part is so insignificant as to
+be mostly negligible. We noted the different stages of this concrete
+abstract period, marked by the increasing importance of the word.
+Finally we arrived at the point at which it is the prime and almost
+the only factor. Number under its abstract form, as it results, from a
+long elaboration, consists in a collection of unities that are, or are
+reputed, similar. We have therefore first to examine how the idea of
+unity is formed. Next by what mental operation the sequence of numbers is
+constituted, lastly what is the part played by the sign.
+
+I. To common sense nothing appears more easy than to explain how the idea
+of unity is formed. I see a man, a tree, a house; I hear a sound; I touch
+an object; I smell an odor, and so on: and I distinguish this single
+state from a plurality of sensations. John Stuart Mill seems to admit
+that number (at least in its simplest forms) is a quality of things that
+we perceive, as white, black, roundness, hardness: there is a distinct
+and special state of consciousness corresponding to one, two, three, etc.
+
+Even if we admit this very doubtful thesis, we should arrive at last only
+at _perceived_ numbers, with which consistent and extended numeration is
+impossible. It can only be carried on with homogeneous terms, i. e., such
+as are given by abstraction.
+
+The notion of unity must however find its point of departure in
+experience, at first under a concrete form; Although it may enter
+consciousness by several doors, some psychologists, with no legitimate
+reason, have attributed its origin to one definite mode of external, or
+even internal, perception which they have chosen to the exclusion of all
+others.
+
+For some, it is the primordial sense, _the_ sense _par excellence_;
+touch. The child regards as a unity the object which it can hold in its
+hand (a ball, a glass), or follow uninterruptedly in all its boundaries.
+Wherever his operations are interrupted, where there are breaks of
+surface continuity, he perceives plurality. In other terms unity is the
+continuous, plurality is the discontinuous. Numerous observations prove
+that children actually have a far more exact and precocious notion of
+continuous quantity (extension), than of discontinuous, discrete quantity
+(number).[91]
+
+For others, it is sight, for which all that was said above may obviously
+be repeated. The retina replaces the cutaneous surface: an image
+clearly perceived without discontinuity is the unity; the perception of
+simultaneous images leaving intermediate lacunæ in the field of vision,
+gives plurality.
+
+The same may be said of the acoustic sensations. Preyer, in a work
+on “Arithmogenesis,” claims that “hearing takes first rank in the
+acquisition of the concept of number.” Number must be felt before it is
+thought. Ideas of number and of addition have to be acquired, and this,
+according to him, takes place in the child when it hears and compares
+sounds. Subsequently, touch and sight complete this first outline. It
+is known that Leibnitz assimilated music to an unconscious arithmetic.
+Preyer reverses the proposition and says: _Arithmetica est exercitium
+musicum occultum nescientis se sonos comparare animi._[92]
+
+As against those who seek the origin of the idea of unity in external
+events, others attribute it to internal experience.
+
+Thus it has been maintained that consciousness of the ego as a monad
+which knows itself, is the prototype of arithmetical unity. Obviously
+this assertion is open to numerous objections. To wit, the late formation
+of the notion of the ego, the fruit of reflexion; its instability,—still
+more, this unity, like all the preceding, is concrete, complex; it is a
+composite unity.
+
+The thesis of W. James is very superior: “Number seems to signify
+primarily the strokes of our attention in discriminating things. These
+strokes remain in the memory in groups, large or small, and the groups
+can be compared. The discrimination is, as we know, psychologically
+facilitated by the mobility of the thing as a total.... A globe is one if
+undivided; two, if composed of hemispheres. A sand heap is one thing, or
+twenty thousand things, as we may choose to count it.”[93] This reduction
+to acts of attention brings us back definitely to the essential and
+fundamental conditions of abstraction.
+
+Save this last, the hypotheses enumerated (and internal sensation
+might also have been invoked; e. g., a localised pain as compared with
+several scattered pains) give only percepts or images, i. e., the raw
+material of abstract unity. This is itself a subjective notion. We said
+above (Chapter II) that the question whether consciousness starts from
+the general or the particular is a misstatement, because it applies
+to the mind which is in process of formation, categories valid only
+for the adult intelligence. So here. At the outset there is no clear
+perception of primary unity and subsequent plurality, or _vice versa_:
+neither observation nor reasoning justifies an affirmation. There is a
+confused, indefinite state, whence issues the antithesis of continuous
+and discontinuous, the primitive equivalents of unity and plurality.
+It took centuries to arrive at the precise notion of abstract unity as
+it exists in the minds of the first mathematicians, and this notion is
+the result of a _decomposition_, not of any direct and immediate act
+of postulation. It was necessary to decompose an object or group into
+its constituent parts, which are or appear to be irreducible. Then a
+new synthesis of these parts was required to reconstitute the whole, in
+order that the notion of relation between unity and plurality should be
+perceived clearly. It cannot be doubted that for the lesser numbers two,
+three, four, the successive perception of each separate object, and then
+of the objects apprehended together at a single glance, has aided the
+work of the mind in the conception of this relation. We have seen that
+many human races never passed beyond this phase. The abstract notion of
+unity is that of the indivisible (provisory). It is this abstract quality
+of the indivisible, fixed by a word, that gives us the scientific idea of
+unity as opposed to the vulgar notion. Perceived unity is a concrete,
+conceived unity is a quality, an abstract; and in one sense it may be
+said that unity, and consequently all abstract number, is a creation of
+the mind. It results like all abstraction from analysis—dissociation.
+Like all abstraction, it has an ideal existence; yet this in no way
+prevents it from being an instrument of marvellous utility.
+
+II. It is owing to this that the sequence of numbers, homogeneous
+in material, can be constituted; for the identity of unities is the
+sole condition in virtue of which they can be counted, and the scant
+numerations of the concrete-abstract period transcended. The sequence
+is constituted by an invariable process of construction, which may be
+reduced to addition or subtraction. “Thus the number 2, simplest of
+all numbers, is a construction in virtue of which unity is added to
+itself; the number 3 is a construction in virtue of which unity is
+added to the number 2, and so on in order. If numbers are composed by
+successively adding unity to itself, or to other numbers already formed
+by the same process, they are decomposed by withdrawing unity from the
+previously constructed sums; and thus, to decompose is again to compose
+other numbers. For example, if 3 is 2 + 1, it is also 4 - 1. Addition
+and subtraction are two inverse operations whose results are mutually
+exclusive: they are the sole primitive numerical functions.”[94]
+
+The simplicity and solidity of this process result from its being always
+identical with itself, and although the series of numbers is unlimited,
+some one term of the sequence is rigorously determined, because it can
+always be brought back to its point of departure, unity. In this labor of
+construction by continuous repetition, two psychological facts are to be
+noted:
+
+1. No sooner is unity passed, in the elaboration of numbers, than
+intuition fails altogether. Directly we reach 5, 6, 7, etc, (the limit
+varies with the individual), objects can no longer be perceived or
+represented together: there is now no more in consciousness than the
+sign, the substitute for the absent intuition: each number becomes a sum
+of unities fixed by a name.
+
+2. For our unity-type we substitute higher unities, which admit of
+simplification. Thus in the predominating decimal system, ten and a
+hundred are unities ten and a hundred times larger than unity, properly
+so called. They may be of any given magnitude: the Hindus, whose
+exuberant imagination is well known, invented the _koti_, equivalent
+to four billions three hundred and twenty-eight millions of years, for
+calculating the life of their gods; each _koti_ represents a single day
+of the divine life.[95]
+
+Inversely, we may consider the unity-type as a sum of identical parts,
+and represent 1 = 10/10 or 100/100, etc. A tenth, a hundredth, are
+unities ten times, a hundred times, smaller than unity properly so
+called, but they obey the same laws in the formation of fractional
+numbers.
+
+It is well for the psychologist to note the privileged position of
+what we term the unity-type, or simply 1. It originates in experience,
+because unity, even when concrete, and apprehended by gross perception,
+appears as a primitive element, special and irreducible. So long as the
+mind confines itself to perceiving or imagining, there is in the passage
+from one object to two, three, or four objects, or inversely in the
+passage from four objects to three, two, or only one, an augmentation or
+diminution. But below unity in the first case, and above unity in the
+second, there is no longer any mental representation; unity seems to
+border on nonentity and to be an absolute beginning.
+
+From this privileged point the mind can follow two opposite directions,
+by an identical movement: the one towards the infinitely great, with
+constant augmentation; the other towards the infinitely small, with
+constant diminution—but in one sense or the other, infinity is a never
+exhausted possibility. Here we reach the much disputed question of
+infinite number: psychology is not concerned with this. For some,
+infinite number has an _actual_ existence. For others, it only exists
+potentially, i. e., as an intellectual operation which may, as was said
+above, add or subtract, without end or intermission.[96]
+
+III. The importance of signs, as the instruments of abstraction
+and generalisation, is nowhere so well shown as in their multiple
+applications to discrete or continuous quantity. The history of the
+mathematical sciences is in part that of the invention, and use of
+symbols of increasing complexity, whose efficacy is clearly manifested
+in their theoretical or practical results. In the first place, words
+were substituted for the things that were held to be numerable; next,
+particular signs, or figures; later still, with the invention of algebra,
+letters took the place of figures, or at any rate assumed their function
+and part in the problem to be solved; later still, the consideration of
+geometrical figures was replaced by that of their equations; finally,
+the use of new symbols corresponded with calculations for infinitesimal
+quantities, negative quantities, and imaginary numbers.
+
+These symbols are such a powerful auxiliary to the labor of the
+mathematicians that those among them who affect philosophy have gladly
+discoursed upon their nature and intrinsic value. They seem to be divided
+into two camps.
+
+One faction attribute reality to the symbols, or at least incline that
+way. It is the introduction of the _nomina numina_ into mathematics. They
+maintain that these pretended conventions are only the expression of
+necessary relations which the mind is obliged, on account of their ideal
+nature, to represent by arbitrary signs, but which are not invented by
+caprice, or by the necessity of the individual mind—since this contents
+itself with laying hold of that which is offered by the nature of the
+things. Do we not see moreover that the labor accomplished by their aid
+is, with necessary modifications, applicable to reality?
+
+To the other, symbols are but means, instruments, stratagems. They mock
+at those who “look upon relations once symbolised as things which have
+in themselves an _à priori_ scientific content, as idols, which we
+supplicate to reveal themselves” (Renouvier). Signs, whatever they may
+be, are nothing more than conventions: negative quantities represent
+a change in the direction of thought. Imaginary numbers “represent
+important relations under a simple and abridged form.” Symbols are an
+aid in surmounting difficulties, as, empirically, the lever and its
+developments serve for the lifting of weights. “It is not calculation,”
+said Poinsot, “that is the secret of this art which teaches us to
+discover; but the attentive consideration of things, wherein the
+intellect seeks above all to form an idea of them, endeavoring by
+_analysis_ properly so called to decompose them into other more simple
+ideas, and to review them again subsequently as if they had been formed
+by the union of those simpler things of which it had full knowledge.”[97]
+
+In sum: numbers consist in a series of acts of intellectual apprehension,
+susceptible of different directions, and of almost unlimited
+applications. They serve for comparison, for measurement, for putting
+order into a variety of things. If we compare now the two extremes,—viz.,
+the first attempt at infantine numeration and the highest numerical
+inventions of the mathematician,—we must recognise the notion of
+number to be a fine example of the complete evolution of the faculty
+of abstraction, as applied to a particular case, the principal stages
+of which we have been able to note in bringing out the ever-increasing
+importance of signs.
+
+
+SECTION II. THE CONCEPT OF SPACE.
+
+The idea of space has given rise to so many theories that it is difficult
+to restrain ourselves within the strict limits of psychology, and of
+our particular subject. Whether or no this concept be innate, given _à
+priori_ or derived from our cerebral constitution, we have here—setting
+aside all question of origin—only to inquire by what ways and means we
+attain full consciousness of it and determine it to be a fundamental
+concept.
+
+In order to follow its development we must necessarily set out from
+experience; since space, like number or time, is perceived before it is
+conceived. For the sake of clearness and precision, let us designate the
+primitive concrete data, the result of perception, as _extension_, and
+the concept, the result of abstraction, as _space_—properly so called.
+
+I. At the outset what is given us by intuition is extension under a
+concrete form. What first becomes known to us is not space but a limited
+and determined extension—what the child can hold in its hand, reach by a
+movement of its arms, later on the room which it crosses with uncertain
+steps; it is a street, a square traversed, a journey made by carriage or
+by train, the horizon which the eye embraces, the nebulæ vaguely seen in
+the nocturnal sky, etc. All this is concrete and measurable, and can be
+reduced to a measure, i. e., to a concrete extension such as the metre
+and its fractions.
+
+These different extensions, although given by the senses, and therefore
+concrete, are already abstract; since they co-exist with other qualities
+(resistance, color, cold, heat, etc.) from which a spontaneous analysis
+separates them, in order to consider them individually. This analysis is
+translated by the common terms, long, short, high, deep, near, far, to
+the right, to the left, in front, behind, etc.
+
+By a simplification which occurred much later (for it implies the
+foundation of geometry) this somewhat confused and incoherent list is
+replaced by a more rational analysis: height, breadth, depth, distance,
+position. It marks the transition from the concrete-abstract to the
+abstract period. It is in fact certain that before constituting itself
+as a science founded upon reasoning, geometry traversed a semi-empirical
+stage, it was born of practical needs—the necessity of measuring fields,
+building houses, and the rest. Moreover certain great mathematicians
+have by no means disdained to admit its relations with experience: Gauss
+called it the “science of the eye,” and Sylvester declared “that most if
+not all the chief ideas of modern mathematics originated in observation.”
+
+Let us, without insisting further, recollect that extension is given us
+by touch and sight. Touch is _par excellence_ the sense of extension:
+thus geometry reduces the problems of equality or inequality to
+superpositions, and all measure of extension is finally reducible to
+tactile and muscular sensations. The terms touch and vision ought in
+fact to be completely co-extensive, representing not merely a passive
+impression upon the cutaneous surface, or the retina, but an active
+reaction of the motor elements proper to the sensorial organs.
+
+The term _acoustic_ space has recently come into use. Much work has been
+done on the semi-circular canals, leaving no doubt as to the part they
+play in the sense of bodily equilibrium;[98] some authors have even
+localised a “space-sense” in them. Münsterberg relates from his personal
+experience that while the vestibule and the cochlea receive excitations
+whence result the purely qualitative sensations of sound (height,
+intensity, etc.), the semi-circular canals receive others which depend
+upon the _position_ of the source of the sound: these excitations would
+produce reflexes, probably in the cerebellum, the purpose of which would
+be to bring the head into the position best adapted for clear audition.
+The synthesis of sounds, of the modifications perceived in the canals,
+and of the aforesaid movements (or images of movement) would constitute
+the elements of an acoustic space. Wundt, who opposes this theory, sees
+nothing more in the semi-circular canals than internal tactile organs,
+auxiliary to external touch.[99]
+
+Leaving this hypothesis of acoustic space (which is by no means
+well-established), we know from numerous observations that the different
+modalities of tactile and visual extension, notably that of distance, are
+only known with precision after much groping and long apprenticeship.[100]
+
+Extension under all its aspects, whether perceived or imagined, presents
+according to constitution, age, or circumstances, a character of
+variability which is in complete contrast with the stability and fixity
+of the concept of space. The conditions of this relativity have been
+exposed at length by Herbert Spencer. “A creature without eyes cannot
+have the same conception of space as one that has eyes; and it is the
+same with the congenitally blind as compared with those who are in full
+possession of their eyesight; and for the creature whose locomotion is
+rapid and powerful as compared with the creature which moves slowly
+and painfully.” Our bodily bulk and organic dimensions also affect
+conceptions of space; distances which seemed great to the boy seem
+moderate to the man, and buildings once thought imposing in height and
+mass dwindle into insignificance. Without speaking of nervous subjects,
+who illusively imagine their bodies enormously large or infinitely
+small, there are also transient and momentary states of the organism
+which considerably modify the consciousness of space; thus, De Quincy,
+describing some of his opium dreams, says that “buildings and landscapes
+were exhibited in proportions so vast as the bodily eye is not fitted to
+receive. _Space swelled_, and was amplified to an extent of unutterable
+infinity.”[101] “Deliberate analysis of their movements,” says Lotze,
+“is so little practised by women that it can be asserted without fear of
+error that such expressions as ‘to the right,’ ‘to the left,’ ‘forwards,’
+‘backwards,’ etc., express in their language no mathematical relations
+whatever, but merely certain particular feelings which they experience
+when during work they perform movements in these directions.”[102] In
+fine, the consciousness of concrete extension varies in quantity and
+quality with the structure, position, age, and momentary condition of
+the feeling subject.
+
+II. Starting from these concrete data—extension as included in our
+perceptions—how does the intellect arrive at the abstract notion of space?
+
+The immense majority of men left to their own resources do not rise above
+a confused notion, half-concrete, half-abstract, of the properties of
+extension, and what Lotze says (_supra_) applies even better to their
+total idea of space-relations. The fundamental conception in such minds
+is simply the possibility of going very far in all directions, or of
+placing a succession of bodies one behind the other. As to limit, this
+operation remains vaguely undetermined. It is however translated into
+current parlance, e. g., “bodies are in space,” and other analogues.
+Space is conceived, or rather imagined, as an immense sphere which
+encloses everything, as the receptacle of all extension. It contains
+bodies, as a barrel holds wine. The primitive cosmologies which yet
+demand a certain development of reflexion and of abstraction reveal the
+nature of this conception to us when they speak of the circle of the
+horizon, the vault of heaven, the firmament (a kind of _firm_ enclosure),
+and other expressions which denote belief in an insurmountable limit.
+This conception, which is wholly imaginative at bottom, is a fine example
+of abstraction elevated into an entity, and the phantom thus created
+becomes in its turn the source of idle or badly-stated problems such as
+the following.
+
+‘We have never,’ contends J. S. Mill, ‘perceived an object, or a portion
+of space, without there being space beyond it, and from the moment
+of our birth we have always perceived objects or parts of space. It
+follows from this that the idea of an object or part of space must be
+inseparably associated with the notion of a further space beyond it.
+Each moment of our life tends to rivet this association, no experience
+has ever interrupted it. Under the actual conditions of existence, this
+association is indissoluble.... Yet we can conceive that, given other
+conditions of existence, it might be possible to transport ourselves
+to the limits of space, and that after there receiving impressions of
+a kind totally unknown to our present state, we might instantly become
+capable of conceiving the fact and of stating the truth of it. After some
+experience of the new conception, the fact would seem as natural to us as
+the revelations of sight to the blind man whose cure is of long standing.’
+
+This argument is founded upon an equivocation. Mill appears to admit
+as the basis of his discussion the semi-concrete, semi-abstract notion
+of space, described above; namely, that of common sense. Consequently
+he confounds and mixes up two perfectly distinct questions; that of
+Extension, the concrete fact perceived or imagined, and Space, abstract
+and conceived. In the case of the former, the problem is cosmological and
+objective, and we are not concerned with it; it is, under another form,
+the repetition of the discussion on infinite number,—are we, or are we
+not, to admit a continuous, real magnitude? In the latter, the problem
+is psychological, subjective, relative to abstraction alone, and will be
+answered later on.
+
+Up to this point, in fact, the concept of Space corresponds to the state
+of evolution that we have so frequently denoted as concrete-abstract.
+The true concept of space—of purely abstract space—was only constituted
+when the geometricians (Greek and otherwise) disengaged from different
+extensions those essential features which they termed dimensions, showing
+by their science that elements thus abstracted and considered separately
+can be substituted for all the rest. Stallo justly observes that the
+geometrical elements are neither real, nor ideal, nor hypothetical;
+they are _conceptual_, the result of abstraction. “In the processes of
+discursive thought the intellect never has before it either sensible
+objects or the whole complement of relations which make up their mental
+images or representations, but only some single relation or class of
+relations. It operates along _lines_ of abstraction, the final synthesis
+of whose result never yields anything more than outlines of the objects
+represented. During all its operations the intellect is fully aware
+that neither any one link in the chain of abstraction nor the group
+of abstract results which we call a concept (in the narrower sense
+of a collection of attributes representing an object of intuition or
+sensation) is a copy or an exact counterpart of the object represented.
+It is always conscious that to bring about true conformity between
+concepts or any of their constituent attributes with forms of objective
+reality, the group of relations embodied in these concepts would have
+to be supplemented with an indeterminate number of other relations
+which have not been apprehended and possibly are insusceptible of
+apprehension....”[103]
+
+No one imagines that there are in Nature points, surfaces, lines,
+volumes, such as geometry proposes them, nor that its concepts are
+copies of these, but it is not therefore necessary to take refuge in the
+_à priori_: abstraction suffices, the act, i. e., by which fundamental
+qualities are abstracted, to be subsequently fixed by definition. It is
+strange that Stuart Mill in his long and untoward discussion of this
+subject should content himself with saying that “we have a power, when a
+perception is present to our senses, or a conception to our intellect, of
+attending to a part only of that perception or conception.”[104] In this
+remark upon attention he is very near recognising the rôle of abstraction
+(which for the rest he fails to name), but instead of insisting upon it
+he returns to his thesis, that “the foundation of all sciences, even
+deductive and demonstrative sciences, is induction....”
+
+The concept of space such as the geometers have made it, namely at
+its highest degree of abstraction, is thus the result of association.
+It is extension emptied of all its constitutive qualities, save the
+necessary conventions which determine it. This schema (apart from
+all transcendental considerations) appears to us as the total of the
+conditions of bodily existence in so far as they are endowed with
+extension. Thus constituted, with the marks which are proper to it, and
+distinguish it from all others, this concept, like that of number, is
+susceptible of multiple application, while moreover it has no assignable
+limits in any direction (i. e., according to the time-honored expression,
+it is infinite).
+
+Just as concrete number represents real unities or collections, while
+abstract number detached from discontinuous realities admits of infinite
+numeration; so concrete space (extension) corresponds to the intuition
+of certain bodies, while abstract space, by an unrepresentable concept,
+if not by words, implies an unlimited extension.
+
+If, hypothetically, it were possible to count all the leaves of all the
+trees in the world, this prodigious number corresponding to concrete
+unities would be as nothing to the mind that can count for ever beyond
+that. So for the extension determined by the movement of our arms or
+legs, by days of railway travelling or sailing, by balloon ascensions,
+and finally by the most powerful telescopes that can scrutinise the
+infinity of the heavens,—in all these concrete, fixed, _measured_
+extensions we can always imagine a beyond, because the end of one
+extension is the beginning of the next. All that, however, is but the
+work of the imagination manipulating abstraction. The law of construction
+for infinite space is the same as for infinite number: this infinity is
+only in the operation of our mind, it is a pure psychological process;
+we believe we are dealing with real magnitudes, and we are only acting
+upon our own judgment: we are but adding states of consciousness one
+upon another. Space is only potentially infinite, and this potentiality
+is in us, and in nothing but ourselves; it is a virtuality which can
+neither be exhausted nor achieved. To erect it into an entity is to reify
+an abstraction, to attribute an undue objective value to an entirely
+subjective concept. The journey to the end of space as suggested by
+Stuart Mill in the passage above cited (if by space he means the simple
+possibility of containing extended bodies) would really be a journey to
+the end of our minds: if he means a journey to the end of the real world,
+i. e., determinable and measurable extension—which has no limits beyond
+the imperfection of our instruments—then he admits implicitly that the
+universe has bounds, he takes sides in a debate in which experimental
+psychology (we repeat) sees nothing, and which it is even totally
+incompetent to decide.
+
+       *       *       *       *       *
+
+During this century certain illustrious mathematicians,—Gauss, 1792, in
+an unpublished work, Lobachévski in 1829, Riemann, Beltrami, Helmholtz
+and many others after them, constructed a new geometry known under
+various names: astral, imaginary, pangeometric, metageometric, and lastly
+non-Euclidean geometry. Its fundamental principle is that our Euclidean
+space is only one particular case among several possible cases, and our
+Euclidean geometry one species of which pangeometry is the genus—that the
+sole determining reason in its favor is that Euclidean geometry alone is
+practically applicable to, and verified by, experience. These essays,
+beyond their direct interest to mathematicians, have already given rise
+to a considerable number of philosophical considerations. While they have
+only very distant relations with psychology, they deserve notice, because
+they enable us the better to understand the genesis of the concepts of
+space, and are moreover a striking proof of the constructive power of the
+mind, emancipated from experimental data, and subject only to the rules
+of logic.
+
+Our space being of three dimensions, the neo-geometers speculated in the
+first place as to the hypothesis of a space of 4, 5, or _n_-dimensions;
+later on they chose as their base of operations a space of three
+dimensions, considered no longer as plane (Euclidean space) but as
+spherical or pseudo-spherical, having, i. e., instead of a zero
+curvature, either a positive (spherical space) or a negative curvature
+(pseudo-spherical space). Their point of departure is the rejection
+of Euclid’s postulate—they do not admit that it is impossible to draw
+through a point more than one parallel to a given straight line. In
+spherical space there is nothing analogous to the Euclidean axiom of
+parallels; in pseudo-spherical space two parallels to a line can be drawn
+through any point. In the first hypothesis, the sum of the three angles
+of a triangle is greater than two right angles; in the second it is
+smaller. Thus by deduction after deduction, the neo-geometers constructed
+an edifice very different from ordinary geometry, subject to no other
+conditions than that of being free from internal contradiction.
+
+In our connexion, the sole utility of the invention of imaginary
+geometries is to have reinforced, as if by a magnifying process, the
+distinction between space _perceived_ and _conceived_; this assumes
+various forms according to the process of abstraction employed and fixed
+in definitions. “Euclidean” space has only one advantage, that it is the
+simplest, the most practical, the best adapted to facts: in short, that
+which involves the least disparity between the ideal and our experience,
+and consequently the most useful. “Certain neo-geometers have in fact
+maintained that it is uncertain whether space can, or cannot, have the
+same properties throughout the whole universe ... and that it is possible
+that in the rapid march of the solar system across space we might
+gradually pass into regions in which space has not the same properties as
+those we know”; yet this thesis, which, fundamentally, reifies an entity,
+does not seem to have gained many partisans. Stallo criticises it at
+length (_op. cit._, Chap. XIII).
+
+There is no agreement as to the measure in which the new concepts
+agree or disagree with the theory of space, “the _à priori_ form of
+sensibility.” Some hold them to be indifferent, others to be unfavorable
+to Kantism: this discussion which, for the rest, does not concern us is
+still in progress.
+
+       *       *       *       *       *
+
+In conclusion, extension is a primary datum of perception and cannot be
+further reduced: it is multiple, full, heterogeneous, continuous (at
+least in appearance), variable, perhaps finite; while space (concept) is
+void, unified, homogeneous, continuous, and without limits.
+
+Many men and races never get beyond this stage of concrete
+representation, which corresponds with the first moment of evolution in
+the individual and in the species. The first step towards the concept of
+space (concrete-abstract period) consists in representing it to oneself
+as the place, the receptacle of all bodies. This is the direct result
+of primitive reflexion: image rather than concept, to which the mind
+attributes an illusive reality.
+
+The true concept, resultant of abstraction, has been the elaboration of
+geometricians. It is actually constituted by a synthesis of abstracts or
+extracts which are, according to Riemann, size, continuity, dimension,
+simplicity, distance, measure. This synthesis or association of abstracts
+has nothing necessary about it; its elements may be combined in several
+ways; hence the possibility of different concepts of space (Euclidean,
+non-Euclidean). Space conceived as infinity reduces itself to the power
+that the human mind has of forming sequences, and it forms them thanks
+to abstraction, which admits of its seizing the law of their formation.
+
+Intuition is the common basis of all concepts of space. Euclidean space
+rests directly upon this, and upon definitions. Non-Euclidean space rests
+directly upon it, but more particularly upon definitions.
+
+Although inapplicable to the real world, these last—which are
+constructions in which the mind is submitted to no other laws than
+agreement with itself—are brilliant examples of the power of abstraction,
+when it attains its highest degree of development.
+
+
+SECTION III. THE CONCEPT OF TIME.
+
+In evolving the idea of time, as in that of space, we must first examine
+the concrete fact which is its starting-point, i. e., real _duration_;
+next the concept which is extracted from it, time _in abstracto_—and this
+must be followed in the successive stages of its development.
+
+
+I.
+
+Real, concrete duration is a quality known by itself, included among
+internal and external sensations, as later on in the representations
+which psychology, in what concerns it, must accept as an ultimate datum.
+
+What is this concrete duration, furnished by experience? It might
+strictly be said to be the present; yet this answer is somewhat
+theoretical, for it must be admitted that what we term “the present” has
+vague and fluctuating limits. Moreover, its clear and precise distinction
+from what has preceded and what is to follow it—the past and the
+future—is a somewhat late production. Of this we have objective witness
+(see Ch. II.) in primitive languages, during the period in which the
+value of the verbs was undetermined. Take again the fact, as frequently
+observed, that children even at the age of three, or older, having
+vague notions of past and future, make a general confusion, and do not
+distinguish between “yesterday” and last week, between “to-morrow” and
+next week (Sully).
+
+Still, we must admit that the present has the privilege of appearing
+in consciousness as the typical duration, the standard, the measure to
+which everything must be referred. Nor can this be otherwise, seeing
+that (as is too often forgotten) we live only in the present; that the
+past and the future have no existence for us, are only known to us under
+the condition of becoming present, of occupying _actual_ consciousness.
+The present is the only psychical element, which, consciously or
+unconsciously, gives a content and reality to duration.
+
+It is essential to rid ourselves of the opinion accredited by many
+authors, that the present is only an elusive moment, a transition,
+a passage, a flash, a mathematical point, a zero, a nullity; on the
+contrary—it alone has duration, is now long, now short. It is even
+possible, to some extent, to determine its limits, and to transcend
+this vague description. Here we are aided by the labors of the
+psycho-physicists. We may say that this study, long restricted to
+metaphysical dissertations, entered upon a positive phase with Czermak,
+who (in 1857) opened out a new line, in which he has been followed by
+many others. The numerous researches and experiments made upon the
+“sense of time” may be omitted without prejudice to our subject, while
+the discussion of them would deter us from our principal aims. We
+must, however, give a rapid summary of those which relate either to the
+actual perception of duration, or to the reproduction in memory of past
+duration.[105]
+
+1. This present, declared to be inapprehensible, has however been
+determined as regards its _minimum_ duration. For the discrimination
+period between two different sensations (taken as the type of the
+briefest and simplest psychical act), Kries and Auerbach found durations
+varying between 0·01 and 0·07 second with an average of 0·03 second. At
+a later period, Exner, experimenting with Savart’s wheel, stated that
+the interval at which two successive taps can be perceived separately
+may be reduced to 0·05 second: as also for the sound produced by two
+electric sparks. For the eye, the minimum perceptible interval between
+two impressions falling on the yellow spot, is 0·044 second. Below this,
+one of the conditions necessary to consciousness—an adequate duration—is
+wanting.
+
+Certain experiments contributed by Wundt and his pupils throw light also
+upon the _maximum_ duration that can be apprehended by consciousness.
+They made use, almost exclusively, of auditory sensations, which are more
+closely allied than any others to the sense of time. Wundt finds that
+twelve impressions equivalent to a duration varying from 3·6 to 6 seconds
+can be clearly perceived to form a group. Dietze admits the continuous
+perception of 40 beats of the metronome, provided the mind arranges them
+spontaneously in 5 sub groups of 8, or 8 sub-groups of 5. Total duration:
+12 seconds. Others vary in their conclusions from 6 to 12 seconds and
+even more.[106] James is inclined to think that the actual present may
+extend to a _minute_.
+
+Of course these figures, of which we can only give a few, vary with the
+subjects, quality of the impressions received, conditions of experience,
+exercise, etc. Nor must we forget that these laboratory researches are
+somewhat artificial, and concerned with the perception of “the present”
+under studied conditions of simplicity which are not precisely those of
+spontaneous consciousness. Still it is plain that “the present” is by
+no means an abstraction, a nothing, and we may conclude, in the words
+of James, “by saying that we are constantly conscious of a certain
+duration—the specious, present—varying in length from a few seconds
+to probably not more than a minute, and that this duration (with its
+content perceived as having one part earlier and the other part later)
+is the original intuition of time. Longer times are conceived by adding,
+shorter ones by dividing, portions of this vaguely broached unit, and are
+habitually thought by us symbolically.”[107]
+
+2. Experiments relating, not to consciousness of actual duration, but
+to the _reproduction_ of durations, and determination of the errors
+involved, are numerous, and contradictory. I refer to them in passing
+only because they are eminently suited to show the very relative and
+precarious character of our concrete notions of duration.
+
+Through all divergencies, the formula enunciated by Vierordt, the
+principal initiator of these researches, remains stable; our
+consciousness of time comes, not from a sensation, but from a judgment,
+and in our retrospective appreciation of duration, we diminish intervals
+that are long, and increase those that are short. The debates and
+disagreements of the experimenters relate above all to the determination
+of the “indifferent point.” Vierordt denoted by this term the interval
+of time which we appreciate the most exactly, which we have no tendency
+to lengthen or abridge, so that if we are required to repeat it
+experimentally, the error is nil, or very rare. This duration, reproduced
+according to reality, is 0·35 sec. (according to Vierordt and Mach); 0·4
+sec. (Buccola); 0·72 sec. (Wundt); 0·75 sec. (Kollert); 0·71 sec.; etc.
+According to another author, Glass, there is a series of points at which
+we find maximum relative accuracy; 1·5 sec., 2·5 sec., 3·75 sec., 5 sec.,
+6·25 sec., etc. Münsterberg again criticises the entire series of figures
+and experiments, for reasons that will be given below.
+
+Independent of these experiments, which are restricted to very simple
+events, the facts of our daily life show to superabundance that our
+memory of duration is almost always inexact. Thus it has often been
+remarked that the years seem to be shorter with advancing age: which is
+again an instance of abbreviation of the longer intervals.[108] It is
+hardly necessary to say that our appreciation of duration (concrete),
+like that of extension (concrete), depends upon multiple conditions, and
+varies with these. Such are pre-eminently constitution and temperament:
+compare a phlegmatic with a nervous individual; an Oriental for whom
+time is not, with an Occidental, agitated by a feverish existence. Add
+to these, age, number, and vivacity of impressions received, certain
+pathological states, etc., and we find here, as for space, that the
+variability of concrete knowledge is opposed to the fixity of the concept.
+
+This consciousness of duration, fluctuating, variable, and unstable as
+it may be, is nevertheless the source whence our abstract notion of time
+is derived: but whence comes it, itself? Where does it originate? “Time
+has been called an act of mind, of reason, of perception, of intuition,
+of sense, of memory, of will, of all possible compounds and compositions
+to be made up from all of them. It has been deemed a General Sense
+accompanying all mental content in a manner similar to that conceived of
+pain and pleasure.”[109]
+
+Here are many answers. We may add that among these supposed origins some
+authors admit only one, to the exclusion of the rest, though nothing
+justifies them in such arbitrary selection.
+
+Some prefer _external_ sensations, inasmuch as they give us the
+consciousness of a sequence. Hearing has been termed the sense of time
+_par excellence_. This thesis has notably been sustained by Mach:[110]
+since in a melody we can separate the rhythm from the sounds which
+compose it, he concludes that rhythm forms a distinct sequence, and that
+there must be in the ear, as in the eye, a mechanism of accommodation
+which is perhaps the organ of the “time-sense.” Others decide in favor
+of the general sense, touch, capable in all animals of receiving a
+succession of impressions at once distinct and forming a series. Sight,
+with its fine and rapid perception of movements and changes, is an
+organ admirably adapted to the formation of relations of sequence, the
+constitutive elements of time. Were not, moreover, the first essays at
+determining time (succession of days and nights, seasons, etc.) founded
+upon visual perceptions?
+
+The majority of contemporary psychologists are, however, inclined
+with reason to seek the principal origin of the notion of duration
+in _internal_ sensations; and these derive their prerogative from
+the primordial and rhythmical nature which pertains to the principal
+functions of life.
+
+“A stationary creature,” says Herbert Spencer, “without eyes, receiving
+distinct sensations from external objects only by contacts which happen
+at long and irregular intervals, cannot have in its consciousness any
+compound relations of sequence save those arising from the slow rhythm
+of its functions. Even in ourselves, the respiratory intervals, joined
+sometimes with the intervals between the heart’s pulses, furnish part of
+the materials from which our consciousness of duration is derived; and
+had we no continuous perceptions of external changes, and consequently
+no ideas of them, these rhythmical organic actions would obviously yield
+important data for our consciousness of Time: indeed, in the absence of
+locomotive rhythms, our sole data.”[111]
+
+“Rhythm,” to quote Horwicz, “is the measure, and the sole measure, of
+time; a being incapable of regular periodic intervals could not attain to
+any conception of time. All the rhythmic functions of the body subserve
+this end: respiration, pulse, locomotor movements, hunger, sleep, work,
+habits and needs of whatever kind.”—Guyau maintains essentially the same
+thesis, under a more metaphysical aspect: “Time is embryonically in
+primitive consciousness; under the form of force and effort; succession
+is an abstraction of motor effort, exerted in space. The past is the
+active become passive.”[112]
+
+More recently, Münsterberg[113] has attributed a preponderant and almost
+exclusive part to respiration. Although he affirms that the origin of
+our notions of duration must be sought in our consciousness of muscular
+effort in general, and that its primitive measure lies in the rhythm
+of the bodily processes; yet the gradual rise and fall of the sense of
+effort which accompanies the two phases of the respiratory function
+(inspiration, expiration) seem to him the principal source of our
+appreciation of duration. After a rather sharp criticism of the attempts
+of his predecessors (which we have already reviewed) to determine the
+“indifferent point,” he maintains that their disagreements were caused by
+incomplete comprehension of the psychical events produced in the course
+of experience. In the perception of the successive beats of a metronome,
+or taps of Wundt’s electric hammer, only the auditory impressions are
+attended to; this is a mistake. It is supposed that the sensation-limits
+form the entire content of consciousness, and that the intervals between
+them are empty. On the contrary, they are filled by an act of attention.
+We are conscious of a process of variable tension which, from the
+initial moment, goes decreasingly towards zero, and then rises again, to
+adapt itself to the sonorous impression that should follow it. In other
+words, there are, in the perception of three successive taps, not three,
+but _five_ states of consciousness: three external and two internal
+sensations. We must reckon thus if we are rigorously to determine the
+_psychological_ conditions of experience. As evidence, Münsterberg brings
+forward the following results, which are from his own experiments.
+
+The “normal time” is first determined, i. e., the standard of duration
+that should be reproduced by the experimenter as exactly as possible
+(“time of comparison”).
+
+In one case, different durations were given, such as 15, 7, 22, 18 secs.,
+etc., without attending to the respiration (expiration or inspiration)
+of the subject, who reacted independently of it. In the reproduction of
+normal time, the mean error was 10·7 per cent.
+
+In the second case, the same numbers were given again, but care was taken
+that the subject began his estimation at precisely that respiratory
+period which coincided with the beginning of the normal time. The mean
+error did not now exceed 2·9 per cent.
+
+In the two cases cited, there was no interruption between the
+determination of the normal time and its reproduction; the two operations
+succeeded each other immediately. If, on the contrary, a short pause, or
+arrest, was introduced between the two, varying from 1 to 60 seconds, the
+results are—proceeding at random as in the first case—a mean error of 24
+per cent.; as in the second, a mean error of 5·3 per cent.
+
+Münsterberg has been not unreasonably reproached for attributing to
+respiration, among all the other internal sensations, the exclusive
+privilege of measuring time. A less justifiable criticism asserts that
+his thesis is devoid of value because we can appreciate the variations
+in duration in the beats of a clock more readily than the changes in the
+rhythm of respiration. This is confounding two distinct factors in the
+genesis of the idea of duration: its period of formation and its period
+of constitution; that which occurs at the commencement, and that which
+takes place in the adult. Our measure is at first subjective, variable;
+progress consists in the substitution of a fixed, objective measure.
+Doubtless, the latter is superior in clearness and in precision; yet this
+is no proof, not even presumption, that it is first in order: we shall
+return to this point later on.
+
+In short, our consciousness of duration is a complex state, more exactly,
+a process—since it is less a state than a becoming. The rhythmical
+visceral sensations are its core; it is an internal chronometer, fixed
+in the depths of our organisation. Around this subjective element, other
+objective elements are added and co-ordinated—the regular sequences which
+are caused by external sensations. They form the sheath of the core, and
+constitute the sensible portion of our consciousness of duration, not,
+however, its totality.
+
+
+II.
+
+Until now we have considered time under its concrete form alone, whether
+given as an actual event in consciousness, or revived as a past event
+in memory. We have now to follow the complete development of this idea
+to its extreme limit. In this study we may conveniently distinguish two
+stages:
+
+The first, which depends on memory and imagination, consists in thinking
+a certain extension of duration, that may be more or less vaguely
+represented: a day, a week, a year, etc.
+
+The second, which depends on abstraction alone, gives time in general,
+the pure concept, which cannot be represented, and is determined by signs
+alone.
+
+FIRST STAGE.—Certain minds never get beyond this first stage. In respect
+of time, this corresponds to the lower forms of abstraction which we
+have so often designated by the terms, _generic image_ and, at a higher
+degree, _concrete-abstract notions_ (intermediate abstracts).
+
+The lowest form, which is just higher than the recognition of concrete
+duration, results like the generic image from the repetition of a
+sequence of events that recur constantly, and are approximately uniform.
+They are series of which the terms are variable, but which begin and end
+always in the same manner. Such are the appearance and disappearance of
+the sun, lying down to sleep and waking up again, and similar facts of
+common life. The points of departure, the start and finish, are always
+the same, whatever the variations in the intermediate states. These
+generic images are met with among the higher brutes, children, and
+primitive races.
+
+To what extent are the higher animals capable of having a certain
+representation of time, constructed from their experience of real
+duration? This is an obscure problem which has been little studied. We
+are not of course referring to time _in abstracto_, to the concept, but
+to the recognition of certain often repeated cycles. Many animals are
+known to have an approximate appreciation of sufficiently protracted
+periods, supplied by the periodicity of their needs (hours at which they
+get food, are taken out, etc., etc.). Prejudice apart, we know of others
+which, in addition to this subjective physiological knowledge, possess a
+fairly exact notion of certain regular and objectively caused periods,
+determined by the progress of natural phenomena, especially by the path
+of the sun.[114]
+
+In all these instances we may assign as cause, the incontestable
+preponderance (in animal life) of automatism and of routine: which is
+equivalent to saying that the notion of these durations is formed by a
+passive assimilation, and this—as we have seen—is the creative process of
+generic images.
+
+According to some authors, there are instances of exact appreciation
+of much less simple periods. Brehm says that during a long passage
+an ourang-outang visited the sailors every Wednesday and Friday at 8
+o’clock, because on those days sago, sugar, and cinnamon were served
+out, of which he got his share. An anecdote has often been cited after
+Romanes, of “the geese who came regularly every fortnight, from afar, the
+morning after the market, in a small English town, to pick up the corn
+scattered on the marketplace. One year the market was postponed for a day
+of national humiliation, but the geese came as usual.”[115]
+
+These and other analogous facts seem scarcely sufficient in number, nor
+strictly enough observed, to warrant any scientific conclusion.
+
+We have previously remarked that, up to the age of three years or more,
+children who already have an approximate knowledge of space relations,
+(distance, proximity, within, without, upper, lower, etc.) have a very
+confused notion of periods as short as three to four days, a week, etc.
+It has been hypothetically suggested that the extension of the notion of
+duration must for them arise in expectation rather than in memory, in an
+orientation towards the future rather than the past.
+
+The concrete-abstract period with its different degrees, limited on the
+one extreme by generic images, on the other by the pure concept, is met
+with among savage races, and in rising civilisations. It is a stage that
+has to be traversed by every human race; many now existing have not
+got beyond it. Days (solar revolution), months (lunar revolution), and
+seasons, the round of the changing aspects of nature, give the primitive
+and simplest notions of time in extension. No tribe is so low in the
+scale as not to have reached this level. The determination of the (solar)
+year, even when only approximate, marks a decisive progress.
+
+The peculiar feature of this period, in its lowest degrees, is that
+the notion of time cannot as yet be separated, or extracted, from the
+sequence of events. We have already given many examples of this state of
+intelligence. It is not poetical feeling that makes the savage reckon
+the age of his children by the flowering of certain plants (and other
+analogous locutions abound among primitive races,)—nor any innate taste
+for metaphor: it is merely that he requires concrete marks to determine
+duration. He cannot think the longer periods _in abstracto_; they must
+be imagined, represented in virtue of a more or less arbitrary choice,
+imprisoned in a concrete mould. Moreover, in the absence of any extended,
+coherent, systematic numeration, the mind loses itself after the first
+step. It lacks the necessary vehicle for movement in front and behind,
+knowing whither it is tending. The natural phenomena which it takes as
+its starting-point are poor substitutes for the absent sign, and moreover
+rivet it invincibly to the concrete.
+
+In my opinion, the culminating point of this period is arrived at in the
+popular conception of time—considered as a vague entity which unrolls
+itself, as it gives birth to events. This is the notion that is general
+among most men of medium culture, who are ignorant of philosophical
+speculation on the subject. It is the final term of common, spontaneous
+reflexion, left to its own resources. Thus it is said of time that it
+brings the unexpected, consoles sorrow, extinguishes passion, changes
+tastes, solves difficulties, and the like; it seems to be an active
+power, a thing in itself. In fact, no other abstraction has perhaps
+been so often reified. We may further remark that time has often been
+personified and even deified in several religions. Such an honor has
+never been conceded to space. The cause of this difference is that time
+has an internal, human character: above all, that it is opposed to
+space as dynamic to static. It is an entity manifested in movement and
+change, and thereby essentially acting and living. While, in the popular
+conception, space is the _passive_ receptacle of bodies, time is the
+_active_ spring by which the whole is set in motion.
+
+SECOND STAGE.—The generic images of duration, and later, the
+semi-concrete, semi-schematic representation of more prolonged lapses
+of time, provide the material whence we obtain the purely abstract
+concept of time. It was stated above (p. 153) that the true concept of
+space was constituted on the day when the ancient geometers disengaged
+from the different extensions, the essential features which they termed
+dimensions. So must the first astronomers, without knowing or seeking for
+what they did, have laboriously disengaged the essential characteristics
+of time conceived _in abstracto_. First, they purified the notion of
+duration from all anthropomorphic features, studying it objectively, in
+the course of the regular phenomena of nature. Moreover, they introduced
+measure. The Chaldæans of Alexander’s time, who possessed a series
+of astronomical observations embracing a period of 1,900 years, who
+made an error of only two minutes in their computation of the sidereal
+year, who determined a cycle of 6,585 days by which they were able
+to calculate eclipses;[116] who were later on the inventors of the
+clepsydra, hour-glass, and other more or less imperfect instruments for
+measuring the subdivisions of the day; all these counted for more than
+metaphysical speculation in ridding our subject of popular conceptions—or
+at least to a large extent prepared the way. Accustomed as we are in
+civilised life to a convenient and exact knowledge of the flow of time,
+measuring it off at any moment by clocks and watches, we forget how
+widely different must be the state of mind in the man whose only guides
+are approximations: such, e. g., as the varying height of the sun in
+different seasons, with other natural changes apt to be misinforming.
+The one life is precise, the other vague, or at least mysterious. That
+our measure of time (as of aught else) is relative, matters little, and
+the vexed problems of this subject do not concern us. By measure, the
+notion of time acquires a _quantitative_ mark; it no longer appears as
+an entity, but as a possibility of successive events, as a divisible
+and subdivisible process; as an extract or abstract, set apart from the
+events, dissociated from them by an intellectual operation: in short—time
+is a thing no longer real or imaginary, but _conceptual_.
+
+It is wasted labor to repeat for time what has already been said for
+space, and is applicable to both concepts. Time, like space and number,
+can be conceived as illimitable; but here again the infinity is only
+in our mental operation. We can add century to century, million upon
+million of years. This infinite time is potential only—constituted by a
+two-fold process: either as a sequence of numbers, which is the ordinary,
+simplest, and most abstract proceeding; or by filling it with fictitious
+events, with arbitrary constructions, for the future; by evoking the
+image of vanished states, when we go back to the first geological ages of
+our globe, to the nebulous period, and so on. This conception of infinite
+time is however quite subjective, and in itself reveals nothing as to the
+nature of things: we do but add one state of consciousness to another; it
+is an inexhaustible possibility of progression and retrogression; and it
+is nothing more.
+
+It is a common illusion to transform this conceived infinity into a real
+infinity; we forget that the mind is only working upon the abstract, i.
+e., upon a fiction, useful no doubt, but created by ourselves alone,
+according to our intellectual nature.
+
+Let us suppose that, in consequence of gradual cooling, the disappearance
+of the sea, or any other cause, man and all animals capable of
+appreciating duration were to disappear from the surface of the earth;
+time would disappear with them. Doubtless the earth would continue to
+turn round its axis, the moon round our planet, the sun to take its
+course; yet nothing would exist beyond the movements. Just as—if every
+eye were to disappear—there would be neither light nor color; if every
+ear failed, there would be neither sounds nor noises, but only the bare
+potentiality of luminous and auditory sensations if the appropriate
+organs were to appear again: so, on our hypothesis, there could only be a
+potentiality of time.
+
+Consciousness is the necessary condition of any notion whatever of the
+time which appears and disappears with it.
+
+       *       *       *       *       *
+
+It is no part of our subject to discuss the various theories that have
+been advanced as to the nature of the psychological process by which the
+primitive notion of time is constituted in consciousness. This question
+is, on the one hand, distinct from the history of its development as an
+abstract idea, which we have been endeavoring to follow, and, on the
+other, from all hypotheses as to its ultimate origin (Kant’s _à priori_
+form, Renouvier’s law of the mind, Spencer’s cerebral innateness) which
+explains neither its appearance as a fact, nor its genesis in experience.
+We may, however, complete our account by summarising the latest
+psychological opinions.[117]
+
+It is clear that a simple sequence of impressions will not suffice to
+constitute the idea of time; the series must be cognised as such, felt
+or thought as a sequence. How is it to be cognised? Contemporary opinion
+upon this point appears to be capable of reduction into two principal
+types.
+
+1. Some admit, as adequate conditions, sensations and their consecutive
+images, strong states and weak states; provided, however, that the latter
+arise before the former have disappeared from consciousness.
+
+Wundt supposes that similar beats of a clock succeed each other at
+regular intervals in a vacant consciousness. When the first has
+disappeared its image remains until the second succeeds it. This
+reproduces the first, in virtue of the law of association by similarity,
+but at the same time encounters the still persisting image. Hence
+the simple repetition of the sound contains all the elements of
+time-perception. The first sound (recalled by association), gives the
+commencement, the second the end, and the persistent image represents
+the length of the interval. At the moment of the second impression, the
+entire perception of time exists simultaneously, since all the elements
+are presented together: the second sound and the image directly, and the
+first impression by reproduction.
+
+“The phenomena of ‘summation of stimuli’ in the nervous system prove,”
+says James, “that each stimulus leaves some latent activity behind
+it which only gradually passes away. Psychological proof of the same
+fact is afforded by those ‘after-images’ which we perceive when the
+sensorial stimulus is gone.... With the feeling of the present thing
+there must at all times mingle the fading echo of all those other
+things which the previous few seconds have supplied. Or, to state it in
+neural terms, _there is at every moment a cumulation of brain-processes
+overlapping each other, of which the fainter ones are the dying phases
+of processes which but shortly previous were active in a maximal degree.
+The amount of the overlapping determines the feeling of the duration
+occupied_.... Why such an intuition should result from such a combination
+of brain-processes, I do not pretend to say. All I aim at is to state
+the most _elemental_ form of the psycho-physical conjunction.” James
+is careful to repeat in several places that he makes no attempt at
+_explanation_.
+
+2. Others admit sensations and intervals; sensations that are no longer
+images, but internal sensations of tension, of effort; more properly
+a subconscious element, which consciousness is able to apprehend by
+observation or induction. This theory has a more active character than
+that first discussed.
+
+The cleanest and most complete form of this interpretation is that of
+Münsterberg,—as set forth above.
+
+Fouillée supports the same thesis as a particular case of his general
+theory of _idées-forces_. The apparent present is a synthesis of real
+presents. Our primitive perception is of change, not of stability; we are
+conscious of transition. The static point of view must be completed by
+the dynamic.
+
+The complete separation of present and past is a mathematical fiction.
+The sum of transition which is a factor in appetite aids in forming the
+series. Time is a form of appetite; beneath the floating image there is a
+tendency to movement. A non-volitional being would have no representation
+of time: time is a form of appetition.[118]
+
+“It is probable,” says Mach, “that time sensation is connected with the
+organic _consumption_ necessarily associated with consciousness,—that
+we feel the _work of attention_ as time.... The fatiguing of the organ
+of consciousness goes on continually in waking hours, and the labor of
+attention increases just as continually. These sensations connected with
+greater expenditure of attention appear to us to happen later.”[119]
+
+Others again (Waitz, Guyau, and more particularly Ward) admit _temporal
+signs_ in imitation of Lotze’s “local signs.” Our successive acts of
+attention leave a series of residua, variable in intensity and precision;
+these “temporal signs” permit the conception of representations as
+successive, and no longer as simultaneous. “What is this distance that
+separates _A_ from _B_, _B_ from _C_, and so on?... It is probably that
+the residuum of which I have called a temporal sign; or, in other words,
+it is the movement of attention from _A_ to _B_.”[120]
+
+These extracts will suffice to show the character of the second theory,
+which seems to me the more acceptable. It is the more complete, inasmuch
+as it takes into consideration, not only the clear states, existing in
+consciousness, but the subconscious states also; it is not confined to
+intellectual elements alone (sensations and images), but recognises the
+necessary rôle of the active, motor elements.
+
+Moreover, it seems more apt than the other to explain certain facts
+of current experience. It is a matter of common observation that time
+seems long to us, under two contrary conditions: (1) when it is very
+long; (2) when it is very empty. Here we have an apparent psychological
+contradiction. The two cases, however, are equally explained by the
+quantity of the states of consciousness: the first is filled with
+events, the second, with efforts. After three or four days of a journey
+fertile in incident, one seems to have left home a long time, because
+(in comparison with three or four days of ordinary life) the quantity
+of adventures held in mind, each implying a _quantum_ of duration,
+appears to us in sum as an enormous duration. On the other hand, to the
+prisoner incarcerated in a cell, to the traveller at a deserted station
+waiting for a train; briefly, to all who are in the state known by the
+name of expectant attention, time seems to be of immeasurable extension.
+This is because there is a constant expenditure of effort, a tension
+incessantly renewed, incessantly frustrated; consciousness is nearly void
+of representations, while it is filled with acts of attention constantly
+repeated. This instance of time prolonged, while apparently empty, is
+difficult to explain, if only the intellectual elements are taken into
+consideration, omitting the consciousness of motor states. It should be
+noticed that “full” time seems longer in the past; “empty” time, in the
+present and immediate past; perhaps because the former rests principally
+upon intellectual memory, which is stable; the latter, upon motor memory,
+which is vague and fragile.
